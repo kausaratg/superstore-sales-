@@ -55,6 +55,8 @@ The dataset contains historical retail transactions, including:
 | Units Sold    |     37,873 |
 
 ---
+<img width="707" height="405" alt="Screenshot 2026-06-27 191447" src="https://github.com/user-attachments/assets/67bf9631-615b-4ef6-b7bb-07d7804bcfe8" />
+
 
 ## Dashboard Features
 
